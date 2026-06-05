@@ -1,4 +1,9 @@
 import pygame, sys, random 
+def test():
+	print("test")
+	print("test")
+	
+
 
 def draw_floor():
 	screen.blit(floor_surface,(floor_x_pos,900))
